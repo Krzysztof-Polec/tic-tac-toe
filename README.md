@@ -9,6 +9,10 @@ My personal web game - tic tac toe
 * JavaScript
 * Node
 
+## Demo
+
+Project Link: [https://krzysztof-polec-tic-tac-toe.netlify.app](https://krzysztof-polec-tic-tac-toe.netlify.app)
+
 ### TO START: `yarn start`
 
 Runs the app in the development mode.\
